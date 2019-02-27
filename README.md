@@ -1,7 +1,7 @@
-### Meats:
+### Meats
 - 3 pounds 85% lean ground beef
 
-### Main Ingredients:
+### Main Ingredients
 - 12oz Old Rasputin
 - 16oz crushed tomatoes
 - 2 chopped sweet onions
@@ -29,7 +29,7 @@
 - 1 tsp ground cayenne
 - 1/2 tsp ground black pepper
 
-### Instructions:
+### Instructions
 1. Brown meat in large skillet.
 2. Put meat in large stock pot. Do not drain grease. Put on low heat and add crushed tomatoes.
 3. Sauté onions and peppers in skillet, then move to pot.
