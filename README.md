@@ -10,7 +10,7 @@
 - 2 chopped poblano peppers
 - 5 cloves garlic
 - 1 chopped ALOHA™ pepper
-- 1 chopped green bell pepper
+- 2 chopped green bell pepper
 - 1 cup semi-sweet chocolate chips
 - 1/2 cup honey
 - 15oz diced mangoes
