@@ -34,3 +34,9 @@
 4. Deglaze skillet with beer and add to pot. Turn heat on low.
 5. Add spice mix and other ingredients.
 6. Simmer about an hour.
+
+### Notes for next time
+- Too hot. Maybe half the cayenne or only 1 poblano.
+- A little too sweet. Maybe less honey. Maybe less chocolate chips, or maybe try unsweet.
+- Maybe another yellow onion.
+- No pineapple.
