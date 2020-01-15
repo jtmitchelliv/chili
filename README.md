@@ -15,7 +15,7 @@
 
 ### Spice Mix
 
-- 3 T ground cumin
+- 2 T cumin seed, freshly ground
 - 1 T ground ginger
 - 1 T paprika
 - 2 T smoked paprika
