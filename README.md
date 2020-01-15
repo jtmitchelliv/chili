@@ -16,11 +16,11 @@
 ### Spice Mix
 
 - 3 T ground cumin
-- 2 T dried oregano
 - 1 T ground ginger
 - 1 T paprika
 - 2 T smoked paprika
 - 2 T pink salt
+- 1/2 T dried oregano
 - 2 tsp cinnamon
 - 5 tsp ground ancho chili
 - 3 tsp ground chipotle chili
