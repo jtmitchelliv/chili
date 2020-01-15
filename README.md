@@ -6,14 +6,12 @@
 
 - 5-ish cloves garlic, minced
 - 1 yellow onion, diced
-- 2 poblano peppers, diced
+- 1 poblano pepper, diced
 - 1 red bell pepper, diced
 - 1 orange bell pepper, diced
 - 1 yellow bell pepper, diced
-- 12oz Guinness
-- 1/4 cup semi-sweet chocolate chips
-- 1/4 cup honey
-- 15oz diced mangoes, syrup drained
+- 1/8 cup semi-sweet chocolate chips
+- 1/2 cup honey
 
 ### Spice Mix
 
@@ -26,7 +24,6 @@
 - 2 tsp cinnamon
 - 5 tsp ground ancho chili
 - 3 tsp ground chipotle chili
-- 1/2 tsp ground cayenne
 - 1/2 tsp ground black pepper
 
 ### Instructions
