@@ -1,35 +1,33 @@
 ### Meats
 
-- 2.25 pounds ground bison
+- 2 pounds meat substitute
 
 ### Main Ingredients
 
-- 5-ish cloves garlic, minced
-- 1 yellow onion, diced
-- 1 poblano pepper, diced
+- 3-ish cloves garlic, minced
+- 2 yellow onion, diced
+- 2 poblano pepper, diced
 - 1 red bell pepper, diced
 - 1 orange bell pepper, diced
 - 1 yellow bell pepper, diced
-- 1/8 cup semi-sweet chocolate chips
-- 1/2 cup honey
+- 28 oz crushed tomatoes
+- 1/2 cup agave nectar
+- 1/2 cup semi-sweet chocolate chips
+- 2 cans kidney beans
 
 ### Spice Mix
 
-- 2 T cumin seed, freshly ground
+- 3 T cumin seed
 - 1 T ground ginger
-- 1 T paprika
-- 2 T smoked paprika
+- 1.5 T paprika
+- 1 T smoked paprika
 - 2 T pink salt
 - 1/2 T dried oregano
 - 2 tsp cinnamon
-- 5 tsp ground ancho chili
-- 3 tsp ground chipotle chili
-- 1/2 tsp ground black pepper
+- 3 tsp ground ancho chili
+- 4 tsp ground chipotle chili
+- 1/3 tsp ground black pepper
+- 1/4 tsp ground cayenne pepper
 
-### Instructions
-
-1. Brown meat in large stock pot.
-2. Add onions and beer while you cut the peppers.
-3. Add peppers and garlic.
-4. Add spices and other ingredients.
-5. Simmer for a bit.
+### Notes
+I added twice as many chocolate chips and crushed tomatoes as I intended, because it was too salty.
