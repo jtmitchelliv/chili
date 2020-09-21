@@ -13,12 +13,12 @@
 - 3-ish cloves garlic, minced
 - 1/4 cup semi-sweet chocolate chips
 - 1/4 cup agave nectar
-- 15.5 oz cans red kidney beans
+- 15.5 oz red kidney beans
 - 8 oz diced mangoes
 
 ### Spice Mix
 
-- 3 T cumin seed
+- 3 T ground cumin
 - 2 fresh ground chile ancho
 - 1 fresh ground chile chipotle
 - 1 fresh ground chile pasilla
@@ -36,9 +36,10 @@
 ### Instructions
 1. Brown the meat in cast iron skillet. Move to stock pot.
 2. Brown onions.
-3. Deglaze with beer, and reduce a bit. Add to pot.
+3. Deglaze with beer, reduce a bit. Add to pot.
 4. Add tomatoes, peppers, chocolate, agave nectar, garlic, and spice mix.
 5. Simmer for a bit.
 6. Add beans and mangoes. Simmer for another bit and then taste.
 
 ### Notes for next time
+- Experiment with chiles. Everthing else was perfect.
