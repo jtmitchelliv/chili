@@ -5,15 +5,15 @@
 ### Main Ingredients
 
 - 1 white onion, diced
-- 1 12 oz South Street Brewery Satan's Pony
+- 1 12 oz Yuengling
 - 1 red bell pepper, diced
+- 1 orange bell pepper, diced
 - 1 yellow bell pepper, diced
-- 1 green bell pepper, diced
-- 14.5 oz diced tomatoes
+- 14.5 oz can diced tomatoes
 - 3-ish cloves garlic, minced
 - 1/4 cup semi-sweet chocolate chips
 - 1/4 cup agave nectar
-- 15.5 oz red kidney beans
+- 15.5 oz can red kidney beans
 - 8 oz diced mangoes
 
 ### Spice Mix
@@ -25,9 +25,9 @@
 - 2 fresh ground chile arbol
 - 1 fresh ground chile guajillo
 - 2 fresh ground chile morita
+- 1 T paprika
 - 1 T smoked paprika
 - 1 T fresh "squeezed" ginger
-- 1 T paprika
 - 1.5 T pink salt
 - 1/2 T dried oregano
 - 1 tsp cinnamon
@@ -40,6 +40,3 @@
 4. Add tomatoes, peppers, chocolate, agave nectar, garlic, and spice mix.
 5. Simmer for a bit.
 6. Add beans and mangoes. Simmer for another bit and then taste.
-
-### Notes for next time
-- Experiment with chiles. Everthing else was perfect.
